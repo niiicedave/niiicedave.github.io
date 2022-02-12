@@ -1,13 +1,12 @@
-# niiicedave.github.io - FINAL PROJECT
+# Niiicedave's Homepage
 
-## Description
-Final project website? What is this thing? Why am I doing this?
+## Welcome
+Please make a bookmark as I will link every project I work on to this page.
 
-## Prerequistes
+## Projects
 
-- A cloned project folder started on [Github](https://github.com/)
-- A basic understanding of [Bootstrap](https://getbootstrap.com/)
-- A strong understanding of HMTL5 and CSS
+- Final Project foir Mobile-Friendly Websites [Github](https://niiicedave.github.io/)
+
 
 ## Installation
 
@@ -33,4 +32,4 @@ niiicedave (2022) Bootstrap Boilerplate (Version 1.0) [Source code](https://getb
 
 ## Contact
 
-[David Prasad](prodavidprasad@gmail.com)
+
