@@ -1,4 +1,4 @@
-# niiicedave.giothuib.io - FINAL PROJECT
+# niiicedave.github.io - FINAL PROJECT
 
 ## Description
 Final project website? What is this thing? Why am I doing this?
