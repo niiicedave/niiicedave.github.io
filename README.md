@@ -1,8 +1,7 @@
-# Bootstrap Boilerplate
+# niiicedave.giothuib.io - FINAL PROJECT
 
 ## Description
-
-A basic bootstrap boilerplate to start a mobile-friendly website
+Final project website? What is this thing? Why am I doing this?
 
 ## Prerequistes
 
