@@ -11,6 +11,7 @@
 
 
 - [David Prasad .com](https://davidprasad.com)
+- [Bootstrap Carousel](https://niiicedave.github.io/bootstrap-carousel-2/)
 
 ## License
 
