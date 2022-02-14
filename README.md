@@ -1,11 +1,6 @@
-### Note to self
-
-- Please never edit this on the Github web site
-- Will result in push rejection
-
----
-
 # Welcome to Niiicedave's Homepage!
+
+- Note to self: Never edit this on the Github web site
 
 ## Niicedave's Projects
 
