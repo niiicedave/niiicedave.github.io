@@ -1,4 +1,6 @@
-# Welcome to Niiicedave's Homepage!
+# Niiicedave's Homepage
+
+- Welcome. 
 
 ## Niicedave's Projects
 
