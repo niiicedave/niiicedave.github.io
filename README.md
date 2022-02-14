@@ -1,13 +1,16 @@
-# Niiicedave's Homepage
+### Note to self
 
-## Welcome
-Please make a bookmark as I will link every project I work on to this page.
+- Please never edit this on the Github web site
+- Will result in push rejection
+
+---
+
+# Welcome to Niiicedave's Homepage!
 
 ## Projects
 
-- Final Project for Mobile-Friendly Websites [Github](https://niiicedave.github.io/)
 
-
+- [David Prasad .com](https://davidprasad.com)
 
 ## License
 
