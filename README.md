@@ -1,6 +1,6 @@
 # Niiicedave's Homepage
 
-- Welcome. 
+- Welcome. Need photos? All my Flickr photos are Creative Commons - attribution. You can use any photo that doesn't have an identifiable person in it. [Niiicedave's Flickr](https://www.flickr.com/photos/33671002@N00/) 
 
 ## Niicedave's Projects
 
