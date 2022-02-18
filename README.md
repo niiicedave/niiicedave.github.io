@@ -4,6 +4,7 @@
 
 ## Niicedave's Projects
 
+- [Final Project Mobile Friendly Websites](https://niiicedave.github.io/final-project-mfw/)
 - [David Prasad .com](https://davidprasad.com)
 - [Bootstrap Carousel](https://niiicedave.github.io/bootstrap-carousel-2/)
 - [Websites for Beginners Final Project](https://niiicedave.github.io/final-project/)
